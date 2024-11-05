@@ -2,6 +2,8 @@
 
 This project is an example that shows how it's possible to connect Apache Nifi with Kafka to consume messages from Kafka and produce messages to Kafka. A COVID-19 API was used for this example. 
 
+It's inspired by [jitapichab/apache-nifi-kafka](https://github.com/jitapichab/apache-nifi-kafka) project.
+
 ## **Architecture of the project**
 
 
